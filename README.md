@@ -9,7 +9,7 @@ Located in `1.Phasing_Imputation_codes/`
 * `run_impute_github.sh`: Runs imputation steps.
 * ### 2. SMR & Colocalization
 Located in `2.colocR_codes/`
-*run_smr_pipeline.sh: Runs the Summary-data-based Mendelian Randomization (SMR) pipeline.
+* `run_smr_pipeline.sh`: Runs the SMR analysis pipeline.
 * `run_smr_coloc.R`: Performs Summary-data-based Mendelian Randomization (SMR) and genetic colocalization using the `coloc` R package.
 ## 3. Plots
 Located in `3.Plots/`
