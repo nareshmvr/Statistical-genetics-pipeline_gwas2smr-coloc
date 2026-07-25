@@ -1,6 +1,6 @@
 #Scripts for pre-GWAS data processing (VCF conversion, SHAPEIT4 phasing, IMPUTE5 imputation), followed by post-GWAS SMR, ColocR
 integration, and Manhattan data visualization
-This repository contains a collection of scripts for downstream GWAS QC analysis, functional integration, and locus visualization.
+
 ## Repository Structure
 ### 1. Phasing & Imputation Codes
 Located in `1.Phasing_Imputation_codes/`
